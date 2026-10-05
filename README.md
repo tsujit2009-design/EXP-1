@@ -1,4 +1,4 @@
-# EXP-1
+# EXP-1 test
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
