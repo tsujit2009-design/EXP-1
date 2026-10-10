@@ -42,18 +42,18 @@ CIRCUIT DIAGRAM:
 
 CIRCUIT DIAGRAM:
 a.   KVL:
- <img width="1920" height="1080" alt="{60A2B487-892E-4CE8-A19C-3C91C0E40A47}" src="https://github.com/user-attachments/assets/ca51b4fa-0f2d-4087-a25b-161405cd50ac" />
-<img width="1920" height="1080" alt="{00AF2B5B-1F9D-4126-8401-8A12CC6DE93C}" src="https://github.com/user-attachments/assets/a0f6c6bc-dab8-4f06-a37e-62bc8ecfcc9a" 
+ <img width="1000" height="1080" alt="{60A2B487-892E-4CE8-A19C-3C91C0E40A47}" src="https://github.com/user-attachments/assets/ca51b4fa-0f2d-4087-a25b-161405cd50ac" />
+<img width="1000" height="1080" alt="{00AF2B5B-1F9D-4126-8401-8A12CC6DE93C}" src="https://github.com/user-attachments/assets/a0f6c6bc-dab8-4f06-a37e-62bc8ecfcc9a" 
 />
 b.  KCL:
-<img width="1920" height="1080" alt="{3942D156-6D45-4475-BD87-1B7BE44B2DBF}" src="https://github.com/user-attachments/assets/d4ea9f49-db39-4177-8883-620490f758d2" />
-<img width="1920" height="1080" alt="{D7197DCF-34DD-4F8C-AB7F-572661449B52}" src="https://github.com/user-attachments/assets/604f488b-e6d8-4073-ba53-b0ea89aa740c" />
+<img width="1000" height="1080" alt="{3942D156-6D45-4475-BD87-1B7BE44B2DBF}" src="https://github.com/user-attachments/assets/d4ea9f49-db39-4177-8883-620490f758d2" />
+<img width="1000" height="1080" alt="{D7197DCF-34DD-4F8C-AB7F-572661449B52}" src="https://github.com/user-attachments/assets/604f488b-e6d8-4073-ba53-b0ea89aa740c" />
 
  
 
 Calculation:
 a.   KVL:
-<img width="1000" height="1000" alt="{F8AA6BB5-EFDE-4F7B-AB99-866CF7D57103}" src="https://github.com/user-attachments/assets/550546e4-de70-43c6-bd53-92a77581e13f" />
+<img width="1000" height="1080" alt="{F8AA6BB5-EFDE-4F7B-AB99-866CF7D57103}" src="https://github.com/user-attachments/assets/550546e4-de70-43c6-bd53-92a77581e13f" />
  
 b.  KCL:
 <img width="1000" height="1000" alt="{A4014682-3003-41BB-883D-D3216472725C}" src="https://github.com/user-attachments/assets/66173fda-0be2-41e5-8bc2-795a8e37614d" />
